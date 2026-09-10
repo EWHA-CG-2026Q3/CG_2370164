@@ -24,6 +24,10 @@ public class S04_diamond : MonoBehaviour
             0,3,4,
             3,2,4,
             2,1,4,
+            0,1,5,
+            1,2,5,
+            2,3,5,
+            3,0,5
         };
 
         Mesh mesh = new Mesh();
